@@ -1,0 +1,728 @@
+10th Amendment
+Powers not expressly given to federal government by the Constitution are reserved to states or the people. Also known as "reserved powers amendment" or "states' rights amendment"
+13th Amendment
+Abolished slavery. First of three "Reconstruction Amendments" passed after Civil War (1865-70)
+14th Amendment
+(1) All persons born in the U.S. are citizens; (2) no person can be deprived of life, liberty or property without DUE PROCESS OF LAW; (3) no state can deprive a person of EQUAL PROTECTION of the laws. Second of three "Reconstruction Amendments" passed after Civil War.
+15th Amendment
+States cannot deny any person the right to vote because of race. Third of three "Reconstruction Amendments" passed after Civil War. First Voting Rights Amendment (with 19, 24 & 26)
+16th Amendment
+Power of Congress to tax income
+17th Amendment
+Established the direct election of senators (instead of being chosen by state legislatures)
+19th Amendment
+States cannot deny the right to vote based on gender
+1st Amendment
+Freedom of religion (establishment & free exercise clauses), speech, press, assembly, and petition.
+22nd Amendment
+Limits the president to two terms.
+23rd Amendment
+Gives Washington DC electoral college votes as if it were a state (DC still has no representation in Congress)
+24th Amendment
+Abolishes poll taxes
+26th Amendment
+States cannot deny the right to vote based on age (18+)
+2nd Amendment
+Right to arm bears. Supported by National Rifle Association interest group & Republican Party.
+4th Amendment
+No "unreasonable" searches and seizures. Exclusionary rule (Weeks v. US, Mapp v. Ohio)
+5th Amendment
+(1) No Self-Incrimination (Miranda)
+(2) No Double Jeopardy (defendant cannot be tried again on the same, or similar charges)
+(3) No deprivation of life liberty or property without "due process of law" (fair treatment)
+6th Amendment
+The right to counsel in criminal trials. Gideon v. Wainwright held that states must provide indigent defendants with a free lawyer ("public defender"). Right to jury in criminal trials.
+7th Amendment
+Right to jury in civil trials.
+8th Amendment
+Government cannot inflict cruel and unusual punishment. Meaning of "cruel" based on "evolving standards of decency that mark the progress of a maturing society." Categorical bans on death penalty: juveniles, retarded, non-murder crimes...
+9th Amendment
+Unenumerated Rights Amendment. Citizens have unenumerated rights in addition to those stated in the Constitution. Not been developed by Supreme Court (too open ended)
+Constitution
+A nation's basic law, creates political institutions, assigns or divides power in government and often provides certain guarantees to citizens. Can be written or unwritten.
+Agents of Socialization
+Family (most important); TV/media (growing in importance); friends/peers; school (formal socialization). How we develop (absorb) opinions & beliefs.
+American Political Culture
+A set of basic, foundational values and beliefs about government that is shared by most citizens. Key elements: democracy, equality before the law, limited government, capitalism & private property
+Anti-Federalists
+A group who opposed the ratification of the Constitution in 1787. They opposed a strong central government (tyranny) and supported states' rights. "I smell a rat!"
+Articles of Confederation
+Set up the 1st independent American government (1783-88). Nonbinding "league of friendship" among sovereign states with weak central government to help with common defense & cooperation (like the European Union). Replaced by our current constitution in 1788.
+Bandwagon Effect
+"Copy-cat" behavior. People often do things just because other people do them. In primary elections, it is when people support the candidate everyone else seems to be supporting (poll leaders). Leads to Primary Frontloading (states want to have the most impact in the primary process)
+Block Grants
+Grants ($) given to the states by the federal government for a general purpose (like education or road-building). Unlike categorical grants, states have discretion to decide how to spend the money. Example = Temporary Assistance to Needy Families (TANF) (States develop and implement welfare programs using federal money).
+Casework
+Assistance given to individual constituents by congressional members, like helping an elderly person figure out how to get Medicare benefits. Major incumbency advantage.
+Categorical Grant
+A grant ($) given to the states by the federal government for a specific purpose or program. The federal government tells the states exactly how to spend the money (no state discretion unlike block grants). Example = Medicaid. Most common type of federal grant because it gives Congress the most control over the states.
+Checks and Balances
+A major principle of the American system of government. Helps maintain separation of powers so that no one branch gets too powerful. Explained in Federalist 51. Examples: President vetos laws; Senate confirms appointments & treaties; Congress impeaches president & judges...
+Chief Justice John Marshall
+In office from 1801-1835 (longest serving CJ). Supported increased power of federal government. Decided McCulloch v. Maryland, Gibbons v. Ogden, and Marbury v. Madison.
+Civil Rights Act of 1964
+Prohibits discrimination based on race or gender in employment or public accommodations (restaurants, hotels). Created EEOC to enforce. Based on Congress's interstate commerce clause power (discrimination impacts interstate commerce). The most important federal civil rights law.
+Commerce Clause
+Art. 1, Sec. 8 of the Constitution (enumerated power). Congress has the power to regulate commerce with foreign nations, among the several states ["Interstate Commerce Clause"], and with the Indians. Interpreted by the Supreme Court very broadly (Gibbons v. Ogden) until Lopez & Morrison.
+Confederation
+Nonbinding union of sovereign states (example = European Union, America under Articles of Confederation).
+Congressional Demographics
+Rich highly educated white male protestant lawyers & businessmen! Women VERY underrepresented! (<17%)
+Connecticut Compromise
+Solves big state-little state debate over representation in federal legislature at Philly Convention. Created bicameral legislature with equal representation for states in Senate and proportional representation in House (seats based on population).
+Cooperative Federalism
+System of federalism where federal & state governments help each other perform governmental duties. Also known as marble-cake federalism. E.g., After hurricanes federal and state agencies work together to provide relief. Can cause confusion and/or conflict among among different levels of government. Best explanation of how federalism works today (instead of dual federalism)
+Condition of Aid
+A technique of fiscal federalism used by Congress to control states. Requires states to do something in order to get the money (ex. South Dakota v. Dole, raise drinking age 21 to get highway money).
+Department of Defense
+Cabinet-level agency in charge of the armed forces and military policy. HQ = The Pentagon. (Secretary Panetta)
+Department of State
+Cabinet-level agency in charge of foreign policy & international affairs. (Secretary Clinton)
+Descriptive Representation
+The idea that politicians can only represent people like them (ex. only women can represent women, blacks represent blacks, etc.)
+Devolution Revolution
+The effort to reduce the size & power of the federal government by returning (devolving) power to the states. Associated with economic conservatives, President Reagan & the Tea Party.
+Doctrine of Implied Powers
+Established by CJ Marshall in McCulloch v. Maryland. Congress has the power to make all laws that are "necessary and proper" for carrying out its enumerated powers. So it can create a National Bank to carry out its power to coin money. Major cause of growth of federal power.
+Dual Federalism
+System of federalism that strictly separates federal power (ex. foreign relations) and state power (ex. protect against crime). Each level of government is dominant within its own sphere. Probably how the Founders thought America would work (enumerated federal powers + reserved state powers). Also known as "layer-cake federalism."
+Electoral College
+Constitutional system for electing president and vice president. Each state has electors = to number of senators + representatives (DC also has 3 because of 23rd Amendment). Citizens of state vote for candidate. Winner gets all electoral college votes (except Maine & Nebraska which uses proportional system). Winner of majority of electoral college votes becomes president. If no majority then President picked by House from top 3 candidates.
+Congress' Enumerated Powers
+Power to tax, borrow & coin money, regulate foreign & interstate commerce, establish army, declare war, make all laws necessary & proper for carrying out the enumerated powers (elastic clause)
+Exclusionary Rule
+Evidence obtained in violation of 4th Amendment is not admissible in criminal trial. (Weeks v. U.S., Mapp v. Ohio)
+Exit Poll
+A poll of voters exiting the polls (voting locations) to attempt to predict the outcome of the election. May create a bandwagon effect.
+Federalism
+A system of government in which power is divided between one central government and several regional governments (dual or cooperative). Used in USA and a few other countries. Most countries have unitary governments.
+Federalist Papers
+Written in 1788 by Madison, Hamilton, and Jay to support ratification of the Constitution. Fed 10 (factions) & Fed 51 (separation of powers, checks & balances)
+Federalists
+Supporters of the new constitution in 1787. Supported a strong central government. Hamilton, Washington, Marshall. Became first political party (vs. Jefferson's Democratic-Republicans)
+Fiscal Federalism
+Federal government using money (grants) to influence & control states.
+Formal Amendment Process
+Article V; the (very difficult) process of adding or deleting words to the constitution (27 times since 1788); propose by 2/3 vote of Congress or Constitutional Convention (never used); ratify by 3/4 vote of state legislators or state convention (only used once)
+Franking Privilege
+The right of congresspeople to send job-related mail to their constituents without paying postage. Incumbency advantage.
+Gender Gap
+Belief / observation that women are more likely to support Democratic / liberal candidates & issues than men. Women are more likely to support spending on welfare & education, and to oppose higher levels of military spending.
+General Election
+Election in which the winner becomes an elected government official.
+Gerrymandering
+The drawing of district boundaries by the state legislature to benefit a party, group, or incumbents. Major types are political & racial.
+Gibbons v Ogden
+Commerce clause case (1824). Decision greatly enlarged Congress' interstate commerce clause power by broadly defining the meaning of "commerce" to include virtually all types of economic activity. Pair with Lopez & Morrison cases (limiting commerce power).
+Grandfather Clause
+Jim Crow era state laws that discouraged African Americans from voting by saying that if your grandpa couldn't vote, then neither can you. The newly-freed slaves grandpas couldn't vote, so neither could they. Declared unconstitutional in 1915.
+Informal Amendment Process
+Changing the meaning of the Constitution without changing the actual words (which requires a formal amendment through Article V process). Examples = Supreme Court opinions, laws, traditions.
+Initiative
+Some states allow citizens to come up with their own ideas for laws to put on an election ballot. If the proposition passes it becomes a law. Requires many voter signatures to get on the ballot. Most direct form of democracy (citizen law-making)
+Isolationism
+Old as Washington, a belief that America should not seek to become engaged in foreign affairs.
+Jacksonian Democracy
+The first major opening up of American suffrage (voting rights) by Jackson's new Democratic Party in 1830s. Franchise extended to all white men (not just rich white men). Achieved by state legislation not constitutional amendment.
+Jim Crow Era
+Era in the South after Civil War (1865) until 1950s. African Americans were freed from slavery and could legally vote (Amendments 13, 14, 15) but were still subjected to discriminatory state laws enforcing segregation and kept from voting by laws (ex. poll taxes, literacy tests) and by violence (KKK)
+John Locke
+Father of political liberalism (limited government to protect life liberty & property; right to revolt if government becomes a tyranny); he greatly influenced Jefferson & the Declaration of Independence.
+Joint Chiefs of Staff
+One General from each of the 4 armed service branches (army, navy, air force, marines) and, since 1/2012, the National Guard. The JCS are key military advisors to the President.
+Defamation
+False and malicious (mean) writings ("libel") or speech ("slander") about a living person. Not protected speech under 1st Amendment but check out NY Times v. Sullivan (very difficult for "public figures" to prove defamation)
+Idealism (foreign policy)
+Use American power to promote democracy and peace around the world. Associated with Woodrow Wilson & Jimmy Carter. (Compare with realism)
+Literacy Test
+A method to deny blacks right to vote during the Jim Crow Era by requiring reading or civics test in order to vote. Could be selectively applied. Rationale: only the educated should vote. Prohibited by the Voting Rights Act of 1965.
+Logrolling
+You support my bill, I'll support yours. Trading favors by legislators to help pass their bills.
+McCulloch v. Maryland (1824)
+(1) CJ Marshall establishes doctrine of implied powers (Congress can create a national bank because it is necessary & proper to carrying out the enumerated power to coin money); (2) Supremacy clause prevents state (Maryland) from taxing the National Bank. Very important case enlarging power of federal government.
+Economic Liberalism
+Belief in strong government intervention in the economy to promote stability & prosperity (example, Keynesian fiscal policy)
+NATO
+North Atlantic Treaty Organization. Cold War military alliance (USA + Western Europe vs. USSR).
+Necessary and Proper Clause
+Gives congress the power to do anything that is necessary and proper to carry out an enumerated power. Also known as the "elastic clause." Leads to implied powers doctrine (McCulloch v. Maryland)
+New Jersey Plan
+Plan at Philadelphia Convention for equal representation in new Congress (1 state 1 vote). Also known as "small state plan." Opposite of the Virginia "big state" Plan. Becomes basis of representation in the Senate.
+North American Free Trade Agreement
+Free trade agreement among USA, Canada & Mexico. Goal = promote economic prosperity & cooperation. Easier perhaps to achieve at regional level than global level (World Trade Organization).
+Pendleton Civil Service Reform Act
+1883 reform law that replaced the patronage/spoils system in the federal bureaucracy with a merit-based professional system. "Important" leadership positions in bureaucracy (Secretaries, Commissioners, Directors) & federal judges still appointed by president.
+Pocket Veto
+If a bill is proposed within 10 days of congress adjourning and the president does not sign it , it will die (un-overrideable veto).
+Political Ideology
+A more or less consistent set of beliefs about what policies government should pursue.
+Political Socialization
+The process by which individuals acquire (absorb) a sense of political identity (beliefs & behaviors). Key agents of socialization include family, media, peers.
+Process can be informal (family) or formal (APGOPO)
+Poll Tax
+Tax on voting. Used to discourage African Americans from voting during the Jim Crow era. Also used to exclude poor whites. Declared unconstitutional by 24th Amendment.
+Earmarking
+Practice of congressmen of securing ("appropriating") federal money ("pork") for projects that will benefit their constituents. Major incumbent advantage & source of budget increases
+Primary Election
+One way for a state party to select delegates to send to the National Convention. Can be closed, open or blanket. Now used by most states instead of caucus (cheaper, quicker, more democratic).
+Push Poll
+A type of poll that attempts to influence opinions secretly using a poll (would you vote for McCain if you knew that he had a black, illegitimate child?)
+Random Digit Dialing
+A common method of randomizing poll sample to maximize accuracy.
+Realism
+Major foreign policy ideology. Act in the world only to protect and benefit yourself. (Contrast with idealism)
+Redistricting Process
+When a state legislature or independent commission draws new House district lines (if gain/loss of seats after reapportionment process based on census every ten years)
+Referendum
+A state level method of direct democracy that gives voters a chance to approve or disapprove proposed legislative action or a proposed amendment. Occurs when a state wants the voter's opinion on a controversial issue.
+Republic
+Representative democracy. Sovereignty rests with the people, as opposed to a king or monarch.
+Sampling Error
+The % margin of error of a survey. Randomized polls accurate to 3%.
+Selective Incorporation Doctrine
+Judicial doctrine that applies the Bill of Rights (one right at a time) to state and local governments by incorporating them into the concept of liberty in the 14th Amendment's Due Process Clause (which is binding on the states)
+Separation of Powers
+The principle of dividing governmental powers among different branches of government to protect against tyranny (Federalist 51).
+Shays' Rebellion
+Failed rebellion in 1786 by poor farmers in MA against state government & banks that were taking their farms. Showed how weak the central confederation government was vs. threats to private property and order. Major factor in creation of Constitutional Convention in 1787 (Elite theory)
+Stare Decisis
+"The decision stands". A rule in deciding cases where judges follow precedent (how similar cases were decided in the past). Helps promote consistency and fairness in the legal process. Lower courts must follow precedent set by higher courts. Supreme Court can reject precedent if absolutely necessary (Example: Brown rejects precedent of Plessy).
+Substantive Representation
+Theory of representation that says that anyone can represent any group (ex. a rich white guy can represent the interests of poor black people). Compare to Descriptive Representation.
+Supremacy Clause
+The Federal constitution, laws, and treaties are the supreme law of the land. States cannot interfere with federal power (ex. McCulloch v. Maryland).
+Swing State
+A state that could go either way in a presidential elections (unlike "safe states"). Target of a lot of attention in elections. Also known as "battleground states" or "purple states" (Ohio, Florida in 2008)
+Unitary State
+A state ruled by one central government. This is the system used by most countries. Compare with federal state.
+United Nations
+Replaced the League of Nations after WWII. Global organization to maintain peace and facilitate diplomacy.
+US Constitution
+"The supreme law of the land." Written in 1787 at Philadelphia Convention to replace Articles of Confederation and create stronger central government. Outlines structure & power of 3 branches of national government. Oldest written constitution still in use (but amended 27 times plus myriad informal amendments).
+US v. Morrison (2000)
+Violence Against Women Act (VAWA) unconstitutional because it exceeded Congress' commerce clause power. With Lopez v. United States, two recent cases checking commerce clause growth of federal power (unchecked since New Deal). Next up: Obamacare.
+Virginia Plan
+Also known as the Big State Plan. Wanted proportional representation in Congress (based on population).
+White Primary
+A form of restricting African American's 15th Amendment rights during the Jim Crow Era by only allowing whites to vote in the primary elections; giving African Americans only the opportunity to vote for white racist A or white racist B.
+World Trade Organization
+Economic organization to promote global wealth.
+Measurement Error
+An error in collecting polling data. Example = response bias or confusing questions.
+Libertarianism
+Belief in as much freedom and as little government as possible (tolerates some government to provide stability & security). Supports free market economy, no government regulation of morality, low taxes.
+Socialism
+A policial ideology that opposes capitalism and supports government control of major aspects of the economy (ex. electricity, health care).
+Declaration of Independence
+Thomas Jefferson's statement of political liberalism (limited government to protect life liberty and pursuit of happiness; right to revolution).
+Philadelphia Convention (1787)
+12 states send delegates to revise the Articles of Confederation; Delegates soon agree to draft completely new Constitution with stronger federal government. Elite conspiracy?
+South Dakota v. Dole (1987)
+Congress is allowed to attach "strings" (conditions of aid) to money given to states (raise drinking age to 21 to get highway funds). Major tool of fiscal federalism.
+Term Limits
+A legal restriction that limits the number of terms a person may serve in a particular elected office. President limited by 22nd Amendment to 2 terms. No term limits on congressmen.
+US Term Limits v Thornton
+Prohibited state legislatures from imposing term limits of their Representatives and Senators (Court held that the Constitution's Qualifications Clause is the only limit on congressional service)
+Speaker of the House
+The leader of the majority party and presiding officer of the House of Representatives. Key role in assigning bills to committee and members to committees & setting party's legislative agenda
+Economic Conservatism
+Belief in limited government intervention in the free market. Supports tax and spending cuts, deregulation & privatization. Reaganomics or "trickle down economics."
+Policy Election
+An election in which voters vote on a particular policy question (ban gay marriage, legalize marijuana). Often used to resolve a controversial issue. Only used (so far) at the state level. Three types of policy election are: recall, initiative, referendum.
+Congressional Caucuses
+Association of members created to support a political ideology or regional economic interest (black caucus, women's caucus, blue dog democrats...)
+House and Senate Whips
+Deputy leadership position. Connects leaders with "rank and file" members, and tries to encourage party unity & discipline
+Senate Leaders
+The heads of the minority and majority parties in the Senate. Less powerful than the Speaker, they set legislative agenda for their party and help set the daily Senate agenda.
+Standing Committees
+Permanent committees in House and Senate that handle bills dealing with a particular subject area. Examples: Defense, Budget, Education.
+House Rules Committee
+Powerful House standing committee that reviews all bills coming from other House committees before they go to the full House (gatekeeper function); sets time limit for debate decides whether amendments can be added (open or closed rule).
+House Ways and Means Committee
+Important House standing committee responsible for initiating all taxation bills.
+Appropriations Committees
+Decide how to spend money allocated to each spending category by Budget Resolution; 12 subcommittees for major areas of budget (ex. defense, energy, agriculture); major source of earmarking
+Budget Committee
+House & Senate standing committees that begins budget process in Congress by setting overall budget size and amounts that will be spent on different topics (ex. defense, education)
+Subcommittees
+A group within a standing committee that specializes in a subcategory of the standing committee's responsibility. (Ex. House Committee on Foreign Affairs has subcommittees on Asia, Europe, Africa, etc.)
+Conference Committees
+A joint committee appointed to resolve differences in the senate and house versions of the same bill
+Joint Committees
+Congressional committees to discuss & supervise certain topics, with membership drawn from both houses. (ex., Committee on Library, Taxation)
+Select Committees
+Temporary congressional committees appointed for a specific purpose, such as impeachment investigations or the "Super Committee" on the Budget
+Committee Chairperson
+Leader of a congressional committee. Usually the longest serving member of the majority party on that committee (seniority rule). A very powerful position - Controls the committee calendar, agenda, and hearings. Can pigeonhole (table) a bill by refusing to schedule debate on it.
+Seniority Rule
+A congressional custom that gives the chair of a committee or subcommittee to the member of the majority party with the longest continuous service on the committee.
+Filibuster
+Use of unlimited time for debate in the Senate to kill bills by making (or threatening to make) long speeches. No filibuster in House (House Rules Committee places time limits on all debates). Broken by cloture motion (60 votes)
+Cloture
+A procedure used in the senate to limit debate on a bill (end a filibuster); requires 60 votes.
+Pigeonholing
+Occurs when a committee ignores a bill and doesn't report it out. Also known as "tabling" or "death by committee." Major cause of bill death.
+Marking Up
+The process by which a congressional committee debates, amends, and/or rewrites bills.
+Reporting Out
+When a committee finishes the mark-up of a bill and sends it to the senate or house for debate, consideration, and final passage.
+Open Rule
+An order from the House Rules Committee that permits a bill to be amended on the floor (allows "death by amendment")
+Closed Rule
+Rule in the House of Representatives that prohibits any amendments to bills or says that only members of the committee reporting the bill may offer amendments
+Treaty Power
+The ability of a president to negotiate treaties with foreign nations (requires ratification by 2/3 senate vote). Overshadowed by Executive Agreements.
+Appointment Power
+The power of the President & Senate to appoint important government officers (federal judges, agency directors, etc.). President nominates candidate, which then must by confirmed by simple majority in the Senate (check on President's power). Subject to senatorial courtesy rule for local appointments (district judges)
+Pardon Power
+Power of the president to forgive a federal offense without penalty or grant release from a penalty already imposed. Based on kingly power to intervene in judicial process in exceptional cases.
+Commander-in-Chief
+Constitutional power of the president - "supreme commander" of the nation's armed forces. Important to keep military under civilian control, leads to conflict with Congress over war power (War Powers Act)
+State of the Union Address
+A yearly report by the president to Congress required by Constitution describing the nation's condition and recommending programs and policies (bully pulpit to set legislative agenda )
+The Cabinet
+Group of important advisors to the President (Heads of Department agencies, VP and other VIPs chosen by president). Created by Washington, example of an informal amendment to the Constitution based on custom / tradition.
+Vice President
+Back-up president. Only constitutional role = President of Senate & casts tie-breaker vote in Senate. Typically selected to increase odds in election (Biden experience & foreign policy; Palin youth & Tea Party)
+Executive Office of the President (EOP)
+Ten organizations that advise the President. Includes the Office of Management and Budget, the Council of Economic Advisors, and National Security Council. Top positions must be confirmed by Senate.
+White House Office
+EOP group that includes the President's most trusted personal advisors (led by White House Chief of Staff); members do not need senate confirmation
+Office of Management and Budget
+EOP agency that helps the President prepare annual budget proposal and evaluates budget priorities and effectiveness of federal agencies (oversight)
+Council of Economic Advisors
+EOP agency; three economists who advise president about general economic date, issues and policy proposals. Must be confirmed by senate.
+National Security Counsel
+Consults with the president on matters of defense and foreign policy.
+White House Management Styles
+Pyramidal (with Chief of Staff) or Spokes and Hub style (less reliance on Chief of Staff)
+Patronage System
+AKA Spoils System. Filling government bureaucracy based on connections & political favors not merit (cronyism); ended by Pendleton Act (1883)
+Civil Service
+Government bureaucracy; non-elected agents ("worker bees") that work for executive agencies to execute the law; hierarchical organization, job specialization, detailed rules & procedures, administrative discretion. Massive growth since New Deal & WWII (2.5m people = nation's largest employer)
+Plum Book
+A list of good-paying (sweet) jobs that the new president can fill by appointment (agency directors and other VIPs)
+Cabinet Departments
+The fifteen largest and most influential agencies of the federal bureaucracy (e.g., Department of State, Treasury, Justice...) Headed by Secretary or Attorney General (Department of Justice)
+Independent Regulatory Commissions
+Independent agencies created by Congress to regulate important aspects of the nation's economy. Commissioners appointed by President but not removable except "for cause" (to protect independence). Most independent and least accountable part of the federal bureaucracy.
+Independent Executive Agencies
+Federal agencies that aren't large or important enough to get department status. Directors appointed by President w/ advice & consent of Senate. Ex. NASA, CIA, EPA
+Government Corporations
+A government organization that, like regular corporations, provides a service to the public and typically charges for its services. The U.S. Postal Service is an example. Privatization would abolish GCs.
+Continuing Resolution
+A emergency budget extension measure that Congress passes when a full budget law has not been completed by the beginning of the new fiscal year (October 1). Avoids government shutdown.
+Line-Item Veto
+Allows president to veto bad parts of a bill but keep the rest. Like a scalpel. Especially useful for cutting out pork from spending bills. Declared unconstitutional (impermissibly changed the detailed law-making process established in Article I)
+President as Party Leader
+POTUS is the symbolic leader of his party. Acts as party's chief spokesperson to the public & sets party's legislative agenda (bully pulpit)
+Honeymoon Period
+The short period (days or months) following an election when a president's popularity and ability to influence Congress is at its highest.
+Bully Pulpit
+The Presidency is a "bully pulpit" - a good position from which to inspire Congress & the nation, with the help of the media, to follow his political agenda. Example = FDR's fireside chats, Obama's televised State of the Union Address...
+Rally Effect
+Short-term patriotic increase in president's popularity and power during times of serious international crisis or war (e.g. Bush after 9/11)
+War Powers Act
+A law passed in 1973 after Vietnam fiasco requiring (1) president to notify Congress within 48 hours of sending troops into combat and (2) begin to remove troops after 60 days unless Congress approves of the action. Limited effort to reverse erosion of Congress' war powers since World War II (last formal declaration of war).
+Executive Agreement
+Non-treaty agreement between the U.S. president and other nations that does not require Senate ratification (but is not binding on future presidents). Since 1939, executive agreements have comprised more than 90% of the international agreements (because senate ratification is a real drag!)
+Social Conservatism
+Government should protect "traditional" (Christian) views on marriage, gender roles, & social issues. Oppose gay marriage, legalization of drugs, abortion.
+Veto Process
+President may veto any bill by returning it to Congress with explanation. Congress can override with 2/3 vote in both houses (very hard to do)
+Impeachment Process
+Constitutional process for removing executive officers & judges for "treason, high crimes & misdemeanors" (whatever Congress thinks is impeachable). Two stages: (1) House decides to impeach (accuse) target (simple majority); (2) Senate holds trial to convict (2/3 majority). Andy Johnson and Bill Clinton were impeached but not convicted. Nixon resigned as Articles of Impeachment were being drafted!
+Executive Privilege
+The President's self-declared power to keep executive communications confidential, especially if they relate to national security. Informal amendment to Constitution (by tradition). Can lead to conflict with other branches (Watergate).
+Lame Duck
+Person holding office after his or her replacement has been elected to the office, but before the current term has ended. Lame Duck Presidents may find it hard to influence Congress (why work with a guy who is about to leave?)
+Deregulation
+The lifting of government rules & restrictions on business, industry, and professional activities; major goal of Republicans
+Privatization
+Process of ending government services and allowing the free market (private firms) to provide the service. Purpose = reduce government spending & provide more efficient services. Example = abolishing the postal service. Supported by Republicans.
+Administrative Discretion
+The ability of an agency to determine how it will execute (carry out) laws. Major source of independent power for agencies. (Ex. The FDA decides how to determine safety of food & drugs, the U.S. Attorneys decide whether or not to prosecute suspects)
+Executive Orders
+Regulations & orders from the President to an agency about how to execute a law. They are one of the ways presidents can try to control the bureaucracy.
+Government Accountability Office
+A federal legislative agency that audits (investigates) other agencies of the federal government and reports it's findings to Congress (makes sure they are not spending more money than the government has appropriated for them).
+Congressional Oversight
+The power of Congress to oversee how laws are carried out ("watchdog function" to prevent fraud & waste). Carried out through committee hearings & investigations, approprations process (how much are we spending on that program again?), GAO..
+Freedom of Information Act
+Gives all citizens the right to inspect all records of federal agencies except those containing military, intelligence, or trade secrets; increases accountability of bureaucracy
+Ethics in Government Act
+Requires financial disclosure for elected public officials and placed 1 year restriction on former government officials' lobbying activities (the revolving door problem)
+District Courts
+Federal trial courts. Limited jurisdiction (primarily to hear cases involving constitution and/or federal law). Must follow Supreme Court & their Circuit Court precedents (stare decisis). Federal government represented by U.S. Attorney's Office.
+Circuit Courts
+Intermediate federal appellate courts. Cover 13 "circuits" across America. Hear appeals from District Courts in their jurisdiction.
+Supreme Court
+Final federal appellate court ("court of last resort"). Hears appeals from Circuit Courts (certiorari petition / rule of 4). Only hears "important" constitutional cases.
+Original Jurisdiction
+The jurisdiction of courts to hear a case for the first time (trial). Trial courts (District Courts in federal system) assess the facts in a case and the issue the first decision (guilt, innocence). Supreme Court has OJ over disputes between 2 states.
+Appellate Jurisdiction
+The jurisdiction of courts to hear appeals from lower trial or appellate courts. Appellate courts determine whether cases were decided correctly by the court below. Circuit courts have mandatory AJ (they have to hear appeals from District Courts). Supreme Court has discretionary AK (they can choose to hear appeals from Circuit Courts and State Supreme Courts).
+Senatorial Courtesy
+Senate will not confirm a presidential nomination for a position within a state (ex., District Court Judge) without the consent of the senior senator of the President's party from that state. Informal amendment to appointment process (by tradition)
+Removal Process
+The President may remove any appointed federal officer whenever he wants for any reason. However, the Supreme Court has upheld Congressional limits on removal power for Independent Commissioners (can only be removed "for cause").
+Department of Justice
+Federal department responsible for enforcing federal laws (includes FBI, Civil Rights Division, Antitrust Division, Drug Enforcement Administration...)
+Attorney General
+Head of the Justice Department and the chief law enforcement officer of the United States
+Solicitor General
+Senior Justice Department attorney. Decides what cases the government will appeal to the Supreme Court, files amicus briefs with the Supreme Court in cases the government is interested in, and represents the United States before the Supreme Court.
+U.S. Attorneys
+Government lawyer that represents the US government at the district court level (trials).
+Case or Controversy Requirement
+Rule of judicial self restraint to limit power of judicial review; the Court will only consider real controversies including real, adverse parties (no advisory opinions)
+U.S. v. Nixon
+Supreme Court intervenes in battle between President Nixon and Congress (impeachment process). President cannot use executive privilege as an excuse to withhold evidence in impeachment process. Leads to Nixon's resignation.
+Writ of Certiorari
+An order by the Supreme Court saying that it will hear a certain case (rule of 4). Granted in cases that raise important constitutional questions or where circuit courts have reached different opinions on a particular issue.
+Rule of 4
+How the Supreme Court decides whether to hear a case. Requires four or more justices to "grant certiorari" (agree to hear an appeal). Supreme Court agrees to hear <1% of cases.
+Docket
+The list of cases that the Supreme Court has agreed to hear (granted certiorari to) in a term (usually 70-100 cases)
+Oral Arguments
+The stage in Supreme Court proceedings in which attorneys for both sides appear before the Court to present their positions and answer questions posed by the justices. Good theater (for law nerds).
+Amicus Curiae Brief
+Literally, a "friend of the court" brief, filed by an individual or interest group to present arguments / points of view in addition to those presented by the immediate parties to a case (lobbying). Solicitor General files Amicus Briefs for U.S. government.
+Counter-Majoritarian Difficulty
+The argument that judicial review is problematic because it allows unelected judges to overrule the decisions of elected representatives, thus undermining the will of the majority.
+Judicial Review
+The power of the Supreme Court to declare laws and actions of local, state, or national governments unconstitutional. Established in Marbury v. Madison (informal amendment to Constitution)
+Marbury vs. Madison
+Chief Justice John Marshall famously announces the existence of the power of judicial review: the power of the Supreme Court to declare laws and actions of local, state, or national governments unconstitutional.
+Judicial Activism
+A philosophy of judicial decision-making whereby judges allow their personal views about public policy (liberal or conservative) to guide their decisions. Activist judges are comfortable declaring laws unconstitutional.
+Judicial Restraint
+A philosophy of judicial decision-making whereby judges give significant deference to the decisions made by elected representatives in the legislative and executive branches. Restrained judges are uncomfortable declaring laws unconstitutional.
+Precedent
+A decision in a previous court case that is used as the basis for a decision in a similar case.
+Stare Decisis
+"Let the decision stand"; the principle that cases should be decided in ways consistent with similar prior cases. Promotes consistency & fairness.
+Jurisdiction
+The right & power to make decisions in a particular area. Federal courts are courts of limited jurisdiction. Before a federal court can hear a case it must establish that it has the power to hear this type of case (primary jurisdiction is to hear cases involving the federal constitution and/or federal law).
+Plaintiff
+One who brings a court action against another (the complainer)
+Prosecutor
+The state or federal government attorney in a criminal case.
+Defendant
+An individual or group being sued by a plaintiff or charged with a crime by a prosecutor.
+Appellant
+The losing party in a court case who appeals the case to an appellate court.
+Appellee
+The party opposing an appeal from a lower court to an appellate court.
+Civil Law
+Laws dealing with private rights of individuals (defamation, breach of contract, negligence). Violation results in damages or injunction.
+Criminal Law
+Laws dealing with offenses against society (murder, rape, arson). Prosecuted by the government, violation results in fines or prison sentences
+Damages
+A sum of money paid in compensation for loss or injury in a civil case
+Injunction
+A judicial order to a party to do or stop doing something (example: a restraining order to stay away from a specific person).
+Nomination Process
+The process by which a political party nominates ("selects") a candidate to run in a general election.
+Party Caucus (historical)
+A meeting of important party members to select party candidates. Attacked as corrupt and anti-democratic so not used anymore.
+Primary Election
+Election to select party's candidate for each office. It is now the main way of selecting party candidates. Most democratic method and simpler than caucus. Greatly weakens the power of party leaders and increases power of ordinary voters.
+Closed Primary
+Only registered party members can vote in the party primaries. Maximum party control over process, used in most state primaries.
+Open Primary
+Anyone can vote in any party primaries (but can only vote in the primaries of one party). Less party control over process. May cause raider effect.
+Political Party
+A group of individuals with broad common interests who organize to nominate candidates for office, develop a party platform (policy goals), win elections, and run government
+American Party System
+2 main parties (because of electoral rules) with other smaller and less powerful third parties (spoiler, splinter, extremist)
+Single-Member Plurality District (SMPD)
+Electoral district with only one representative (single member). The representative is whoever wins a plurality of the votes in a general election (no run-off elections). Senate and House districts are SMPDs. Discourages third parties, leads to two-party system.
+Winner-Take-All System (Electoral College)
+Most common state system for allocating electoral college votes (candidate with the most votes wins all of the electoral votes of that state). Used in all but 2 states. Maximizes states' influence in electoral process but completely ignores votes for losing candidates (undemocratic).
+Congressional District System (Electoral College)
+Minority state system for allocating electoral college votes (used in ME & NE). The winner of each congressional district is awarded that district's electoral vote, and the winner of the state-wide vote is awarded the state's remaining two electoral votes. More accurately reflects voter will, but reduces states' influence in electoral process.
+Third Party
+Any political party that appears as an alternative to the two main parties of the Democrats and the Republicans. Often extremist, single-issue or candidate-centered. Not major feature of US political system because of winner-take-all electoral system. Can have spoiler effect (Nader in 2000) or are absorbed into major party (Tea Party in 2008).
+Spoiler Effect
+When a 3rd party candidate takes enough votes away from one of the main party candidates to make him/her lose the election. Ex., Ralph Nader & Green Party may have caused Al Gore to lose 2000 election to George Bush.
+Electoral Realignment
+Changes in the two party system (either a new party replaces old party or coalitions that make up the two main political parties change over time). "Hard realignment" occurs in one critical election (ex., Republicans replace the Whigs in 1860), "soft realignment" occurs or over time (ex., African Americans switch from Republican Party to Democratic Party during Civil Rights Era)
+Critical Election
+Election in which existing patterns of party loyalty shift. Ex. Northern Democrats switch parties in 1860 to vote for Republican Party (Lincoln).
+Electoral Dealignment
+A lessening of the importance of party loyalties in voting decision (more independent voters, more split ticket voting, more divided government). Perhaps occurring now?
+Ticket Splitting
+Voting for one party for one office and for another party for other offices. Frequent among independent voters; leads to divided government.
+Divided Government
+When policymaking institutions of government (President, Senate, House) are divided among the parties (e.g., Democratic President, Republican Congress). Requires more compromise; can lead to gridlock.
+Local Party Organization
+Get-out-the vote activities (grassroots organization). Can be very unorganized. The initial point of entry for those seeking involvement in politics (volunteers, organizers, or candidates)
+State Party Organization
+Links local level to national level. State committee (still mostly volunteer but might have an office, some paid positions). Major jobs are (1) to hold primary elections to select candidates; (2) to support state level candidates in general elections; and (3) to influence platform of National Party.
+National Party Organization
+Headed by President and/or National Chairperson. Main function (limited) is to hold the national convention to select the presidential candidate & write the party platform.
+National Committee
+National party organization that, with Congressional leaders and President, runs party affairs between national conventions, (DNC and RNC, each is headed by a chairperson).
+National Convention
+The meeting of party delegates every four years to choose a presidential ticket and write the party's platform. Brokered Convention occurs if no candidate has won a majority of delegates in state primaries & caucuses.
+National Chairperson
+Person responsible for the day-to-day activities of the party, usually hand-picked by the presidential nominee.
+Party Platform
+A political party's statement of its goals and policies for the next four years, created at National Convention. Lofty rhetoric and specific legislative goals. Can cause splintering (example: southern whites abandoned Democratic Party in 1948 when it adopted a pro-civil rights plank.
+Blanket Primary
+Anyone can vote in any party primaries (like open primary) but voters not limited to one party (can vote for example in Democratic presidential primary and Republican senate primary). Least amount of party control over process.Declared unconstitutional (violates party's freedom to associate)
+1968 DNC
+Democratic party leaders (superdelegates) secure nomination of VP Hubert Humphrey even though he did not compete in any state primaries. Controversy led to the Fraser-McGovern Commission and related reforms.
+Fraser-McGovern Commission
+A Democratic Party commission after 1968 that made changes to delegate selection process for National Convention to make the nomination process more democratic (by using primaries & ending superdelegates) and introduced affirmative action policy in delegate selection (more women & minorities).
+Superdelegates
+"Unpledged Delegates" (usually important party members) at national party convention (about 20% of total delegates) who, unlike "pledged delegates" selected in primaries or caucuses, are not committed to a particular candidate. Used by party leaders to retain some control over candidate selection. Can be important in close races (like Obama vs. Hillary Clinton in 2008)
+Primary Frontloading
+The tendency of states to move their primaries & caucuses earlier in the calendar in order to maximize their impact on nomination process (bandwagon effect).
+National Convention Delegates
+Party members that vote at the National Convention to select the party candidate for president. Pledged delegates follow the wishes of voters in primaries and caucuses. Unpledged "superdelegates" vote for whoever they want.
+Presidential Nomination Reform
+Nomination process is too long and too expensive. One reform idea is to have a single national primary on one day (but this would require runoff election and would hurt less well known candidates who need time to establish their candidacy)
+Federal Election Campaign Act
+First major federal law (1971) to regulate federal elections. Created Federal Election Commission (FEC). Required disclosure of sources of campaign funds (transparency), set limits on contributions to candidates (individuals = $1000, PACs = $5000), spending limits for candidates, limits on independent expenditures.
+Political Action Committee
+A committee set up by a corporation or interest group to raise and funnels money to political candidates. Donation amounts to PACs are limited by FECA rules (hard money).
+Buckley v Valeo
+1974 campaign finance case declared some federal limits on campaign contributions in FECA violated First Amendment (ex. maximum spending limit and limits on candidates' spending their own money).
+Presidential Election Campaign Fund
+Qualified presidential candidates can receive matching federal funds in primary and set amount to spend on general elections (but cannot raise & spend additional money). Attempt to limit campaign spending & corruption but rejected by Obama in 2008 (too easy to raise more money by contributions)
+Soft Money
+Money that is not subject to campaign finance limits and regulation by the FEC. All money before FECA was soft money. FECA shut down unlimited contributions to candidates so soft money flowed to political parties. McCain-Feingold shut down soft money contributions to political parties so now unlimited contributions flow to 527s and Super-Pacs.
+Bipartisan Campaign Reform Act
+Banned soft money donations to political parties (loophole from FECA); also imposed restrictions on 527 independent expenditures (issue ads only, not direct advocacy for a candidate). Declared unconstitutional by Citizens United case. Also known as McCain-Feingold Act.
+Independent Expenditures
+Electioneering by third parties (527s or SuperPacs) to help a candidate get elected (without coordinating with candidates). Protected by Supreme Court in Citizens United as free speech and so cannot be limited by federal law.
+Citizens United v FEC
+A 2010 decision by the United States Supreme Court holding that independent expenditures are free speech protected by the 1st Amendment and so cannot be limited by federal law. Leads to creation of SuperPACs & massive rise in amount of third party electioneering (Citizens for a Better Tomorrow, Tomorrow)
+Republican Party
+One of the two major modern American political parties. It emerged in the 1850s as an antislavery party and consisted of former northern Whigs and antislavery Democrats. Now the party is conservative (pro-life, anti-affirmative action, anti-too much government intervention, anti-taxing on the rich, pro-death penalty)
+Party Caucus (modern)
+One way for a state party to select delegates to send to the National Convention. Consists of a series of meetings (local, county, state) among party members (no "open caucuses").
+Affirmative Action
+Government or business policies favoring a historically disadvantaged minority group (university admissions, hiring decisions); raises 14th Amendment equal protection problems (reverse discrimination); limited by Bakke v. University of California (race can be "plus factor" in admissions but no racial quota system)
+Campaign Tactics
+Mobilize party base (ideologues)
+Focus on key interest groups (group benefit voters)
+Focus on candidate's personality / experience (image voters)
+Spin the last four years (retrospective / nature-of-the-times voters)
+Attack Ad
+Negative ad attacking opposing candidate (ex., swift boat veterans, willie horton); proliferating with independent SuperPAC spending (you ain't seen nothin' yet!)
+Bush v. Gore
+5-4 Supreme Court declared that Florida vote recount violated equal protection clause (some votes would be examined more closely than others); ended Gore's challenge to 2000 election results. Power of judicial review (effectively decided 2000 election).
+527 Organization
+An independent organization set up to influence the outcome of an election; can receive unlimited "soft money" donations but cannot directly advocate for a particular candidate or have any connection to a candidate. Rendered obsolete by Citizens United.
+Baker v. Carr
+Equal protection clause requires "one man, one vote" principle for redistricting (legislative districts must be roughly equal in population)
+Democratic Party
+Demographics: Racial minorities, Jews, Women (gender gap), Labor Unions, Poor
+Ideology: Center-left coalition... support liberal economic & social policies (government aid, gay marriage, no death penalty, tax on wealthy). (liberalism is a dirty word in America)
+Republican Party
+Demographics: White, Protestants, Corporations, Rich
+Ideology: Conservative (cut taxes, cut spending, emd welfare, support traditional marriage...). Center-right coalition (more conservative than Democratic Party is liberal, especially with rise of Tea Party faction since 2008)
+Voter Turnout
+About 50-60% of eligible voters in Presidential elections; much less in midyear elections (30-40%)
+Congressional Incumbency
+Incumbent= current office-holder running for re-election. Incumbent reelection rates VERY high (90+%); higher in House than Senate b/c Senate has stronger challengers. Incumbents lose because of scandal, general anti-incumbent anger...
+Electoral College Reform
+Constitutional Amendment (won't happen)
+Proportional allocation of electors (reduces importance of state)
+Tell electors to vote for winner of national popular vote?
+Faithless Elector
+Electors that don't vote for the person they promised to vote for;
+Occurred 156 times (never affected outcome of election)
+Major problem with Electoral College
+Sound Bites
+Quote or "snippet" from politician's speech used by media to represent whole speech. Used by candidates to spread message (slogan); Used by media to avoid serious (boring) discussion of issues.
+Sunshine Laws
+Law requiring agency meetings and decision-making process to be open to the public. One way of making agencies more accountable to Congress and the public.
+Fairness Doctrine
+Old FCC rule requiring media stations to provide different viewpoints for any controversial political issue
+Equal Time Rule
+FCC rule requiring media stations to offer advertising time to all candidates if they offer it to one candidate.
+Federal Communications Commission
+Federal agency that regulates the radio, television, wire, satellite and cable communications.
+Elite Theory
+Belief that American democracy is a sham; we really live in a plutocracy. The Constitution was written by rich white men for rich white men.
+Pluralist Theory
+Belief that American political system basically works; competing interest groups all get heard at different times and places in government. Federalism helps (more layers of government).
+Hyperpluralist Theory
+Pluralism gone wrong; belief that government is paralyzed by too many interest groups demanding things too many things from government
+Federalist 10
+Topic = factions (interest groups); minority factions controlled by majority; majority faction controlled by greater size of USA + virtuous leaders
+Federalist 51
+Separation of powers & checks & balances protects against tyranny
+Executive Enumerated Powers
+Commander-in-chief of armed forces; pardon power (except for impeachment); treaty power; appointment power; veto power
+Concurrent Powers
+Powers that are given to both federal and state governments. Ex., the power to tax and create courts. Exclusive powers are given only to one level of government (ex., the power to declare war)
+Full Faith & Credit Clause
+States must recognize laws & judicial decisions of other states (ex., marriage, child support payments); public policy exception for gay marriage?
+Defense of Marriage Act (1996)
+Federal law defining marriage as man-woman & declaring that no state is forced to recognize same-sex marriage (unconstitutional exception to full faith & credit clause?)
+Unfunded Mandates
+Federal laws that require the states to do things without providing the money to do so. Examples: ADA (wheelchair ramps), NCLB (AIMs testing)
+US v. Lopez (1995)
+Supreme Court declared Gun Free School Zones Act exceeded Congress's Interstate Commerce Clause power and was therefore unconstitutional. First federal law declared to exceed commerce clause since the 1930s (Devolution Revolution?)
+Bill of Rights
+First ten amendments to the Constitution; major source of civil liberties; applies to states via selective incorporation doctrine; promised to Anti-Federalists to secure ratification of Constitution
+Establishment Clause
+1st Amendment clause: Congress cannot "establish" a religion. Accomodationists (establishment = government-funded religion) vs. Separationists (establishment = ANY involvement with religion); Lemon test
+Engle v. Vitale (1992)
+Mandatory nondenominational school prayer violates Establishment Clause (see also Santa Fe School District v. Doe striking down student-led prayer at school football games)
+Lemon v. Kurtzman (1971)
+Lemon Test for Establishment Clause
+(1) Primary purpose and effect of law must be secular; (2) Law cannot create "excessive entanglement" of government with religion (subjective standard)
+Free Exercise Clause
+1st Amendment clause; Government cannot make a law prohibiting the free exercise of religion. Beliefs are 100% protected but religious practices are not exempt from neutral laws that affect everyone (ex., polygamy & illegal drugs)
+Free Speech Clause
+1st Amendment clause; Congress can make no law abridging freedom of speech (including symbolic speech); Gitlow v. NY incorporates clause into 14th Amendment.
+Fighting Words Doctrine
+One major category of unprotected speech (basically verbal assault); Exception created in Chaplinsky v. NH (1942)
+Clear & Present Danger Test
+Used in Schenck v. US (1919) to determine whether speech is unprotected "incitement" to illegal activity. Replaced by stricter "imminent lawless action" test in Brandenburg v. Ohio (1969)
+Free Press Clause
+1st Amendment Clause: Congress shall make no law abridging freedom of the press. No prior restraints unless major national security threat (Pentagon Papers Case). Major protection against libel (NY Times v. Sullivan).
+Prior Restraint
+Government censorship of written material (preventing publication). Almost impossible due to 1st Amendment (only when major threat to national security). See Pentagon Papers Case (NY Times v. US)
+Patriot Act (2001)
+Law responding to 9/11. Expands anti-terrorist powers (wiretapping, surveillance); 4th Amendment concern for civil liberties.
+Procedural Due Process
+Literal meaning of 5th & 14th Due Process Clauses: Government cannot deprive you of life, liberty or property without holding certain procedures (trial, lawyer, right to question witnesses). Many elements of PDP are specifically protected by 5th, 6th, 7th & 8th Amendments.
+Cruzan v. Missouri
+1990 case declining to extend the constitutional right to privacy to include the right to die (assisted suicide). Three states currently allow assisted suicide. It is a serious crime everywhere else.
+Title IX
+Major anti-gender discrimination law that applies to universities and schools that accept federal funding. Controversial because many universities cut male sports programs so as not to violate Title IX.
+Equal Rights Amendment
+Proposed constitutional amendment requiring full equal treatment for men and women (ex. allow women special forces). Proposed by Congress in 1972 but never ratified
+Americans With Disabilities Act (1990)
+Major anti-discrimination law for disabled; requires access (ramps, braille, etc.); unfunded mandate
+Don't Ask Don't Tell
+Compromise gay policy in military from 1993; finally ended by Obama in 2011.
+Lawrence v. Texas (2003)
+State laws making sodomy (gay sex) a crime violate equal protection clause (fails rational basis test because only possible reason for law is homophobia)
+Congressional Committee System
+Evolved as a way for Congress to handle large and complex work-load; divides up law-making into major subject areas; major responsibility for debating & marking up bills + oversight of execution of laws (the bureaucracy)
+Constituent Services
+Services a congressperson provides for his/her constituents (ex., helping with government claims like social security & veterans benefits)
+Legislative Veto
+Power of Congress to veto executive decisions & actions; declared unconstitutional in INS v. Chadha (1983) (violates separation of powers)
+Congressional Budget Office (CBO)
+Non-partisan legislative support agency (economists) to analyze President's Budget Proposal & how much programs and budget items will cost. Goal is to aid the Congressional budget process.
+White House Chief of Staff
+Closest presidential advisor ("Jafar"). PowerfulgGatekeeper in pyramidal system; does not require senate confirmation
+White House Press Secretary
+Member of White House staff that controls flow of information from president, holds daily press briefings, tries to spin/control media
+Council of Economic Advisors
+Three economic experts to help president understand and develop economic policy; must be confirmed by senate
+Line Item Veto
+Law giving president power to veto portions of budget bill; purpose = reduce size of national deficit; declared unconstitutional (violates separation of powers)
+Chief Justice Earl Warren
+Chief Justice from 1953-1969; led activist liberal court; known for cases expanding rights of criminal defendants (Mapp v Ohio, Gideon v Wainwright, Miranda v Arizona)
+Chief Justice John Robers
+Current Chief Justice (appointed by Bush in 2005); moved court in conservative direction; known for pro-corporation cases (Citizens United)
+Government Corporation
+Corporation set up and run by the government; provides a service to the public (ex. US Postal Service)
+Iron Triangle
+Creation of powerful (iron) relationship of mutual benefit & support among congressional committee, government agency and regulated interest group(s). Can lead to corruption and "agency capture" (where the agency is controlled by the target of regulation). Problem exacerbated by revolving door.
+Proposition 209
+1996 California initiative that banned all affirmative action programs.
+Planned Parenthood v. Casey
+1992 abortion case that applied new flexible test (instead of rigid trimester framework of Roe v Wade): Does state regulation of abortion place "undue burden" on women's right to an abortion? Court used test to uphold some regulations like waiting periods and parental notification for minors.
+Judicial Appointment Factors
+Political ideology (litmus test); acceptability to Senate (not too radical); judicial experience; diversity
+Narrowcasting
+The modern media trend for TV and radio shows to target very narrow ideological audiences (ex. conservatives watch Glenn Beck and Bill O'Reilly); results in greater political polarization
+Spin
+The attempt of politicians to cast their words & actions in the most flattering light (propaganda, distortion)
+Grassroots Politics
+Political action on the local level by ordinary citizens (the roots): fundraising, volunteering, get-out-the-vote activities (knocking on doors); important function of local party organization
+Political Participation
+Main form = voting. Also joining political party, volunteering on political campaign, campaign contributions, running for office, protests...
+Election Timeline
+Phase 1: Invisible Primary (year prior to election year) - exploratory committees, straw polls, media exposure...
+Phase 2: Front-Loaded Primaries, including Super Tuesday (Jan-Feb of election year)
+Phase 3: Remaining primaries & caucuses (March-June of election year)
+Phase 4: Nominating Convention (July/August)
+Phase 5: The General Election Campaign (from Labor Day)
+Phase 6: Election Day (November)
+Invisible Primary
+Informal raising of support (and money) before first primaries
+Democratic Party Coalition (modern)
+Major supporters of Democratic Party = African-Americans, Jews, Women, Labor Union members, poor people
+Republican Party Coalition (modern)
+Major supporters of Republican Party = WASPs, business people, the rich
+Voter Turnout
+Low in America compared to other western democracies (50-60% for presidential elections; 40-50% for midterms)
+Faithless Elector
+Elector who does not vote for the candidate they promised to vote for. These have never determined outcome of presidential election but is a major problem with electoral college system
+Mapp v Ohio
+1961 case incorporating 4th Amendment (and exclusionary rule) into 14th Amendment DPC, binding on states.
+Chaplinsky v U.S.
+1942 case establishing "fighting words" category of unprotected speech.
+President's Budget Proposal
+Detailed budget outline prepared by President & OMB. Sets priorities in discretionary spending & proposes changes to entitlement programs. Start of annual budget process.
+Voting Rights Act (1965)
+Federal law protecting against racial discrimination in voting. Major accomplishment of civil rights movement vs. Jim Crow. Bans all discriminatory voting procedures. Requires ballots to be printed in minority languages. Section 5 = federal policing of states with history of discrimination (still necessary?)
+Police Powers
+The power of a government to make laws protecting the health, safety and welfare of citizens (example: traffic laws, criminal laws). In America, police powers are reserved to the states by the 10th Amendment.
+Habeas Corpus
+The right to challenge the legality of your detention by government (to have a judge determine whether or not the government can detain you). This right can be temporarily suspended by Congress in times of rebellion or unrest.
+Ex Post Facto Laws
+Laws that punish conduct that was not illegal when it was performed. These laws are always unconstitutional. Also known as a retroactive law.
+Bill of Attainder
+Laws that punish individuals or groups without a trial. These laws are always unconstitutional.
+Incumbent Advantages
+Name recognition, campaign contributions, credit-claiming (pork & casework).
+Legislative Oversight
+Congress making sure the Executive Branch and the Bureaucracy is correctly executing (carrying out) laws.
+Temporary Assistance to Needy Families (TANF)
+Federal block grant to provide cash assistance for poor families ("welfare program"). Each state can design its own program. Replaces Aid to Families With Dependent Children (AFDC) which was a categorical grant.
+Class Action Lawsuit
+Allows an entire class of people who have been hurt in a similar manner by the same person or corporation to join together in one legal suit. (Example: AT&T overcharging 10 million customers 1 cent a month for a year).
+Anarchism
+Belief in the abolition of all government (maybe through violent means)
+Social liberalism
+Belief in government assistance to improve society, especially for the poor and minorities. Socially liberal policies include universal health care, public education, affirmative action, welfare programs
+Lobbying
+The act of trying to influence a politician or bureaucrat. Usually lobbyists are highly paid insiders with access to people in power (revolving door). Major weapon of corporate interest groups.
+Civil Disobedience
+Intentional breaking of a law to protest against the law. Thoreau vs. Mexican-American War, Rosa Parks & MLK vs. Jim Crow segregation.
+Motor Voter Act (1993)
+Tried to increase voter turnout by allowing voter registration at same time as getting or renewing driver's license. Increased the registration rate, but not the voter turnout rate (people still apathetic or not motivated to vote)
+Electioneering
+Activity that seeks to influence the outcome of an election. Independent electioneering (SuperPacs & 527s) is protected free speech and so cannot be limited by government.
+Grassroots Activism
+Electioneering and issue advocacy by ordinary & unpaid citizens (the roots of American political system). Examples include Tea Party, youth activism in Obama 2008. Compare with "Astroturf Activism" - fake grassroots efforts (paid for by political interests).
+Super-PAC
+Organization set up after Citizens United to engage in independent electioneering. Can receive unlimited donations but cannot coordinate with a candidate. Causing amount of money spent on elections to skyrocket (SuperPacs have spent $85 million so far in Election 2012)
+Monetarism
+Belief in limited government intervention to combat recession & promote economic growth. Major tool = increasing or decreasing money supply to avoid inflation & maintain price stability.
+Keynesianism
+Belief in aggressive government intervention to combat recession & promote economic growth, especially by massive federal spending ("stimulus")
+The New Deal
+Series of liberal (Keynesian) economic laws enacted by FDR to combat Great Depression. Includes Social Security System & federal minimum wage law. Birth of Democratic Party as liberal party (soft electoral realignment)
+Horse-Race Journalism
+Media tends to cover elections like a sporting event because it generates excitement (who is ahead, who is behind) & it is easy to do (poll data). HRJ is bad because it reduces time spent on analysis of issues & it can create a bandwagon effect in coverage of elections ("Romney looks like he will win this one...")
+Brown v. Board of Education (1954)
+Overrules Plessy v. Ferguson (no stare decisis). Racial segregation violates 14th Amendment Equal Protection Clause ("separate is inherently unequal")
+Korematsu v. United States (1944)
+Internment of Japanese-Americans during WWII does not violate 14th Amendment Equal Protection Clause (gets strict scrutiny but national security is a good enough reason to justify the racial discrimination).
+Miranda v. Arizona (1966)
+5th Amendment self-incrimination clause requires government agents to warn suspects of their right to remain silent and/or contact an attorney before questioning them when they are in custody. Statements made without Miranda Warning are inadmissible in court (like the exclusionary rule for evidence)
+Roe v. Wade (1973)
+Establishes a woman's constitutional right to an abortion (in limited circumstances). Court held that abortion is part of the right to privacy, which itself is part of the concept of liberty in the 14th Amendment ("substantive due process"). Major goal for conservatives to overturn Roe.
+Confederation Congress
+Central government set up by Articles of Confederation (1781-89). No executive or judicial branches. Unicameral legislature with no power to tax or regulate interstate commerce (intentionally weak to prevent tyranny). One state one vote, supermajority (9/13) to pass important laws, unanimous vote to amend (our constitution is unconstitutional!)
+Substantive Due Process
+Creative/activist interpretation of 5th and 14th Due Process Clauses. "Liberty" protected by the DPC includes substantive "fundamental rights" like rights protected by Bill of Rights (leads to incorporation doctrine) and other rights like the right to privacy.
+Department Secretary
+Head of one of the 15 cabinet-level agencies ("Secretary" of Justice is called Attorney General). Divided loyalty between President and agency they command. Must be confirmed by Senate.
+Watergate Scandal
+Nixon's "friends" broke into Democratic National Committee HQ during 1972 election, then Nixon tried to cover up White House involvement. Example of media muckraking (Woodward & Bernstein). Led to resignation of Richard Nixon.

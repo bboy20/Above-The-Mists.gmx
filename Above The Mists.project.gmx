@@ -36,6 +36,8 @@
       <sprite>sprites\spr_build_section</sprite>
       <sprite>sprites\spr_build_section_under</sprite>
       <sprite>sprites\spr_build_destroy</sprite>
+      <sprite>sprites\spr_build_house</sprite>
+      <sprite>sprites\spr_selection</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -62,6 +64,7 @@
       <object>objects\obj_propulsion</object>
       <object>objects\obj_weapon</object>
       <object>objects\obj_moddables</object>
+      <object>objects\build_selection</object>
     </objects>
     <objects name="weapons">
       <object>objects\obj_tesla</object>
@@ -82,8 +85,14 @@
     <objects name="build">
       <object>objects\build_controller</object>
       <object>objects\build_section</object>
+      <object>objects\build_house</object>
       <object>objects\obj_base_menu</object>
       <object>objects\build_destroy</object>
+      <objects name="select">
+        <object>objects\select_build_section</object>
+        <object>objects\select_build_house</object>
+        <object>objects\obj_select</object>
+      </objects>
     </objects>
   </objects>
   <rooms name="rooms">

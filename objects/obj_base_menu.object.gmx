@@ -3,7 +3,7 @@
   <spriteName>&lt;undefined&gt;</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>0</depth>
+  <depth>100</depth>
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -25,7 +25,25 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string></string>
+            <string>for(var i = 3; i &gt;= 0; i--){
+    for(var j = 10; j &gt;=0; j--){
+        objects[i,j] = 0;
+    }
+}
+//assign objects
+objects[0, 0] = select_build_section;
+objects[1, 0] = select_build_house;
+
+
+//create objects
+for(var i = 0; i &lt;= 3; i++){
+    for(var j = 0; j &lt;=10; j++){
+        if(objects[i,j] != 0){
+            instance_create(room_width - 200 + 48*i, 50 + 48*j, objects[i,j]);
+        }
+    }
+}
+</string>
           </argument>
         </arguments>
       </action>
@@ -51,7 +69,7 @@
 width = 250;
 
 draw_rectangle_color(room_width - width+25, 25, room_width-25, room_height-25, c_navy, c_navy, c_black, c_black, false);
-
+draw_set_alpha(1);
 </string>
           </argument>
         </arguments>

@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>if(random(100) &lt; 2){
     randDegree = random(360);
-    hypotenuse = (sqrt((view_wview[0]*view_wview[0])/2 + (view_hview[0]*view_hview[0])/2));
+    hypotenuse = (sqrt((view_wview[0]*view_wview[0])/2 + (view_hview[0]*view_hview[0])/2))/2;
     ySpawn = global.yCenter + sin(degtorad(randDegree))*hypotenuse;
     xSpawn = global.xCenter - cos(degtorad(randDegree))*hypotenuse;
     instance_create(xSpawn, ySpawn, obj_pretty_cloud);

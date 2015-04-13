@@ -26,6 +26,8 @@
           <argument>
             <kind>1</kind>
             <string>object = self;
+landCost = 0;
+woodCost = 0;
 </string>
           </argument>
         </arguments>
@@ -50,6 +52,8 @@
             <kind>1</kind>
             <string>if(mouse_check_button_pressed(mb_left) &amp;&amp; mouse_x&gt;bbox_left &amp;&amp; mouse_x&lt;bbox_right &amp;&amp; mouse_y&gt;bbox_top &amp;&amp; mouse_y&lt;bbox_bottom+16){
     build_controller.selection = object;
+    build_controller.landCost = landCost;
+    build_controller.woodCost = woodCost;
 }
 </string>
           </argument>

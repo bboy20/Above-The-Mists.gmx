@@ -4,7 +4,7 @@
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
-  <persistent>0</persistent>
+  <persistent>-1</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
@@ -33,6 +33,8 @@ for(i = 19; i &gt;= 0; i--){
     }
 }
 selection = build_section;
+landCost = 10;
+woodCost = 0;
 </string>
           </argument>
         </arguments>
@@ -56,6 +58,7 @@ selection = build_section;
           <argument>
             <kind>1</kind>
             <string>if(mouse_check_button_pressed(mb_left) &amp;&amp; mouse_x &lt; 64+32*(array_length_1d(grid)-1) &amp;&amp; mouse_y &lt; 64 + 32*(array_length_1d(grid)-1) &amp;&amp; mouse_x &gt; 64 &amp;&amp; mouse_y &gt; 64 &amp;&amp; grid[(mouse_x-64)/32, (mouse_y-64)/32] &lt;= 0){
+    temp = grid[(mouse_x-64)/32, (mouse_y-64)/32];
     grid[(mouse_x-64)/32, (mouse_y-64)/32] = selection;
 }
 if(mouse_check_button_pressed(mb_right) &amp;&amp; mouse_x &lt; 64+32*(array_length_1d(grid)-1) &amp;&amp; mouse_y &lt; 64 + 32*(array_length_1d(grid)-1) &amp;&amp; mouse_x &gt; 64 &amp;&amp; mouse_y &gt; 64){
@@ -63,12 +66,31 @@ if(mouse_check_button_pressed(mb_right) &amp;&amp; mouse_x &lt; 64+32*(array_len
 }
 var i;
 var j;
+//-1 Destroy on next Tick
+//0 Empty
+// 1 Build_section
 for(i = array_length_1d(grid)-1; i &gt;= 0; i--){
     for(j = array_length_1d(grid)-1; j &gt;= 0; j--){
-        if(grid[i,j] != -1 &amp;&amp; grid[i,j] != 0 &amp;&amp; grid[i,j] != 1){
-            instance_create(64+32*i, 64+32*j, grid[i,j]);
-            grid[i,j] = 1;
+        //Build Section
+        if(grid[i,j] == selection){
+            if(global.land &gt;= landCost &amp;&amp; global.wood &gt;= woodCost){
+                switch(grid[i,j]){
+                    case build_section:
+                        instance_create(64+32*i, 64+32*j, grid[i,j]);
+                        grid[i,j] = 1;
+                        break;
+                    case build_house:
+                        instance_create(64+32*i, 64+32*j, grid[i,j]);
+                        grid[i,j] = 2;
+                        break;
+                grid[i,j] = 1;
+                }
+            }else{
+                    grid[i,j] = temp;
+            }
         }
+        
+        //Destroy Section
         if(grid[i,j] == -1){
             with(instance_position(64+32*i, 64+32*j, build_section)){
                 instance_destroy();

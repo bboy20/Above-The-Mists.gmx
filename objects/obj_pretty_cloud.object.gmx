@@ -112,7 +112,6 @@ for(i = 0; i &lt; 10; i++){
     speed = global.windStr + lastRand+difRand*i/10- 2.5;
 }
 lastRand = nextRand;*/
-
 speed = global.windStr + -.25*sin(degtorad(theta));
 theta+=5;
 theta = theta mod 360;

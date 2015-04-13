@@ -25,7 +25,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>object = build_section;
+            <string>event_inherited();
+object = build_section;
+landCost = 10;
+
 </string>
           </argument>
         </arguments>

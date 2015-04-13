@@ -27,6 +27,8 @@
     </sprites>
     <sprites name="weapons">
       <sprite>sprites\spr_tesla</sprite>
+      <sprite>sprites\spr_dart_gun</sprite>
+      <sprite>sprites\spr_dart</sprite>
     </sprites>
     <sprites name="Menu">
       <sprite>sprites\spr_menu</sprite>
@@ -39,6 +41,7 @@
       <sprite>sprites\spr_build_house</sprite>
       <sprite>sprites\spr_selection</sprite>
     </sprites>
+    <sprite>sprites\spr_lightning_bolt</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Grid</background>
@@ -48,7 +51,7 @@
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\randomPropulsion.gml</script>
+    <script>scripts\scr_randomPropulsion.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_island</object>
@@ -68,6 +71,8 @@
     </objects>
     <objects name="weapons">
       <object>objects\obj_tesla</object>
+      <object>objects\obj_dart_gun</object>
+      <object>objects\obj_dart</object>
     </objects>
     <objects name="Player">
       <object>objects\obj_overworldShip</object>
@@ -81,6 +86,9 @@
     </objects>
     <objects name="pretty">
       <object>objects\obj_pretty_cloud</object>
+      <objects name="physics">
+        <object>objects\obj_physics_pretty_cloud</object>
+      </objects>
     </objects>
     <objects name="build">
       <object>objects\build_controller</object>

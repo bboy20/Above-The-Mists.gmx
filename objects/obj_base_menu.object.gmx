@@ -67,9 +67,10 @@ for(var i = 0; i &lt;= 3; i++){
             <kind>1</kind>
             <string>draw_set_alpha(.75);
 width = 250;
-
 draw_rectangle_color(room_width - width+25, 25, room_width-25, room_height-25, c_navy, c_navy, c_black, c_black, false);
 draw_set_alpha(1);
+draw_text(150, 150, global.land);
+draw_text(150, 175, global.wood);
 </string>
           </argument>
         </arguments>

@@ -25,8 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>ship = instance_nearest(x,y,obj_ship);
-
+            <string>event_inherited();
+if(room == battle){
+    image_xscale = 2;
+    image_yscale = 2;
+}
 </string>
           </argument>
         </arguments>
@@ -51,7 +54,7 @@
             <kind>1</kind>
             <string>x = ship.x;
 y = ship.y;
-image_angle = ship.image_angle;
+event_inherited();
 </string>
           </argument>
         </arguments>

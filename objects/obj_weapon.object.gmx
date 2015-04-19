@@ -28,6 +28,8 @@
             <string>event_inherited();
 orbit_angle = 90*slot;
 orbit_radius = 30;
+fire = false;
+ready = true;
 </string>
           </argument>
         </arguments>

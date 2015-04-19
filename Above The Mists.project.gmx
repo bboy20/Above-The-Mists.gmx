@@ -52,11 +52,16 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_randomPropulsion.gml</script>
+    <script>scripts\scr_randomWeapon.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_island</object>
     <objects name="Ships">
       <object>objects\obj_enemyShip</object>
+      <objects name="Player">
+        <object>objects\obj_overworldShip</object>
+        <object>objects\obj_battleShip</object>
+      </objects>
     </objects>
     <objects name="propulsion">
       <object>objects\obj_balloon</object>
@@ -74,15 +79,12 @@
       <object>objects\obj_dart_gun</object>
       <object>objects\obj_dart</object>
     </objects>
-    <objects name="Player">
-      <object>objects\obj_overworldShip</object>
-      <object>objects\obj_battleShip</object>
-    </objects>
     <objects name="controllers">
       <object>objects\obj_menu_controller</object>
       <object>objects\obj_chunk</object>
       <object>objects\obj_controller</object>
       <object>objects\obj_pretty_controller</object>
+      <object>objects\obj_battle_controller</object>
     </objects>
     <objects name="pretty">
       <object>objects\obj_pretty_cloud</object>

@@ -32,7 +32,7 @@ global.wood = 100;
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="99">
+    <event eventtype="9" enumb="99">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -55,7 +55,7 @@ global.wood = 100;
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="98">
+    <event eventtype="9" enumb="98">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -78,7 +78,7 @@ global.wood = 100;
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="97">
+    <event eventtype="9" enumb="97">
       <action>
         <libid>1</libid>
         <id>603</id>

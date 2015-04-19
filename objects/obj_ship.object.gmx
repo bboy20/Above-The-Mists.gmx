@@ -29,6 +29,15 @@
 if(room == battle){
     image_xscale = 2;
     image_yscale = 2;
+    slots[4] = noone;
+    for(i = 0; i &lt; array_length_1d(slots)-1; i++){
+            if(slots[i] != noone){
+            instance_create(x + (30 + i/2*-1*60)*((i+1)%2), y - (30 + (i-1)/2*-1*60)*((i)%2), slots[i]);
+            weapon = instance_nearest(x + (30 + i/2*-1*60)*((i+1)%2), y - (30 + (i-1)/2*-1*60)*((i)%2), slots[i]);
+            weapon.slot = i;
+            slots[i] = weapon;
+        }
+    }
 }
 </string>
           </argument>

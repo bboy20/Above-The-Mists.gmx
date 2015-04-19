@@ -26,12 +26,13 @@
           <argument>
             <kind>1</kind>
             <string>fired = false;
-speed = 5;
+speed = 10;
 launcher = instance_nearest(x,y,obj_dart_gun);
 x = launcher.x;
 y = launcher.y;
 image_angle = launcher.image_angle;
 direction = -launcher.image_angle;
+ship = launcher.ship;
 </string>
           </argument>
         </arguments>
@@ -54,42 +55,26 @@ direction = -launcher.image_angle;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(!fired){
+            <string>
+if(!fired){
+    /*if(keyboard_check(vk_space)){
+        fired = true;
+        phy_position_x = launcher.x;
+        phy_position_y = launcher.y;
+    }*/
+    
+    phy_position_x = launcher.x;
+    phy_position_y = launcher.y;
     x = launcher.x;
     y = launcher.y;
     image_angle = launcher.image_angle;
     direction = -launcher.image_angle;
+    shipSpeedX = ship.phy_speed_x;
+    shipSpeedY = ship.phy_speed_y;
 }else{
-    image_angle = -direction;
-    phy_position_x += speed*cos(degtorad(direction));
-    phy_position_y += speed*sin(degtorad(direction));
-}
-</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-    <event eventtype="5" enumb="32">
-      <action>
-        <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>if(!fired){
-    fired = true;
-    phy_position_x = launcher.x;
-    phy_position_y = launcher.y;
+    phy_position_x += speed*cos(degtorad(direction)) + shipSpeedX;
+    phy_position_y += speed*sin(degtorad(direction)) + shipSpeedY;
+    image_angle = -direction;    
 }
 </string>
           </argument>
@@ -113,7 +98,9 @@ direction = -launcher.image_angle;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_destroy();
+            <string>if(fired){
+    instance_destroy();
+}
 </string>
           </argument>
         </arguments>

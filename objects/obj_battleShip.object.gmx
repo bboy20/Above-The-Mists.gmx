@@ -30,11 +30,6 @@ slots[0] = obj_dart_gun;
 slots[1] = obj_dart_gun;
 slots[2] = obj_dart_gun;
 slots[3] = obj_dart_gun;
-for(i = 0; i &lt; array_length_1d(slots); i++){
-    instance_create(x + (30 + i/2*-1*60)*((i+1)%2), y - (30 + (i-1)/2*-1*60)*((i)%2), slots[i]);
-    weapon = instance_nearest(x + (30 + i/2*-1*60)*((i+1)%2), y - (30 + (i-1)/2*-1*60)*((i)%2), slots[i]);
-    weapon.slot = i;
-}
 event_inherited();
 </string>
           </argument>
@@ -58,11 +53,11 @@ event_inherited();
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if keyboard_check(ord('W'))
+            <string>//Movement
+if keyboard_check(ord('W'))
    {
-   physics_apply_local_force(-25, 0, 200, 0);
+   physics_apply_local_force(-25, 0, 300, 0);
 }
-
 if keyboard_check(ord('S'))
    {
    physics_apply_local_force(-25, 0, -200, 0);
@@ -72,6 +67,14 @@ if(keyboard_check(ord('E'))){
 }
 if(keyboard_check(ord('Q'))){
   physics_apply_angular_impulse(-2);
+}
+//Fire
+if(keyboard_check(vk_space)){
+    for(var i = 0; i &lt; array_length_1d(slots); i++){
+        if(slots[i] &gt; 0){
+            slots[i].fire = true;
+        }
+    }
 }
 </string>
           </argument>

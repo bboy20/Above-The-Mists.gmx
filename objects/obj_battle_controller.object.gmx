@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>ratio = view_hport[0] / view_wport[0];
+            <string>ratio = view_hview[0] / view_wview[0];
+view_xport[1] = -1;
 global.enemyArrIndex = 0;
 global.player = instance_find(obj_battleShip, 0);
 xAvg = 0;
@@ -35,7 +36,7 @@ yAvg = 0;
         </arguments>
       </action>
     </event>
-    <event eventtype="3" enumb="0">
+    <event eventtype="3" enumb="1">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -52,25 +53,20 @@ yAvg = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(keyboard_check(vk_up)){
-    view_wview[0] += 10;
-    view_hview[0] += 10 * ratio;
-}
-if(keyboard_check(vk_down)){
-    view_wview[0] -= 10;
-    view_hview[0] -= 10 * ratio;
-}
-
+            <string>//Dynamic Camera Movement and resizing
 xSum = 0;
 ySum = 0;
+//Average of enemies
 for(var i = 0; i &lt; array_length_1d(global.enemyArr); i++){
     xSum += global.enemyArr[i].x;
     ySum += global.enemyArr[i].y;
 }
+//Averages with player
 xAvg = xSum/array_length_1d(global.enemyArr);
 yAvg = ySum/array_length_1d(global.enemyArr);
 xAvg = (xAvg + global.player.x)/2;
 yAvg = (yAvg + global.player.y)/2;
+//Position of camera
 view_xview[0] = xAvg - view_wview[0]/2;
 view_yview[0] = yAvg - view_hview[0]/2;
 //Dynamic Resizing
@@ -83,7 +79,7 @@ view_yview[0] = yAvg - view_hview[0]/2;
         view_wview[0] += 2.5;
         view_hview[0] += 2.5 * ratio;
     }
-if(view_hview[0] &gt;= 480 &amp;&amp; view_hview[0] &gt;= 640){
+if(view_hview[0] &gt;= 960/2 &amp;&amp; view_wview[0] &gt;= 1280/2){
     //Resizing Smaller
     if(global.player.x &lt; xAvg + view_wview[0]/2 - 128 &amp;&amp; global.player.x &gt; xAvg - view_wview[0]/2 + 128 &amp;&amp; global.player.y &gt; yAvg - view_hview[0]/2 + 128 &amp;&amp; global.player.y &lt; yAvg + view_hview[0]/2 - 128){
         view_wview[0] -= 2.5;
@@ -93,6 +89,30 @@ if(view_hview[0] &gt;= 480 &amp;&amp; view_hview[0] &gt;= 640){
     view_yview[0] = yAvg - view_hview[0]/2;
 }
 
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="8" enumb="64">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>//draw_rectangle_color(0, display_get_gui_height()-100, display_get_gui_width(), display_get_gui_height(), c_orange, c_orange, c_olive, c_olive, false);
+scr_draw_menu(0, display_get_gui_height()-128, display_get_gui_width(), display_get_gui_height());
 </string>
           </argument>
         </arguments>

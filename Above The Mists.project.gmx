@@ -32,6 +32,7 @@
     </sprites>
     <sprites name="Menu">
       <sprite>sprites\spr_menu</sprite>
+      <sprite>sprites\spr_battle_gui</sprite>
     </sprites>
     <sprite>sprites\cloud</sprite>
     <sprites name="build">
@@ -41,7 +42,6 @@
       <sprite>sprites\spr_build_house</sprite>
       <sprite>sprites\spr_selection</sprite>
     </sprites>
-    <sprite>sprites\spr_lightning_bolt</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Grid</background>
@@ -53,6 +53,7 @@
   <scripts name="scripts">
     <script>scripts\scr_randomPropulsion.gml</script>
     <script>scripts\scr_randomWeapon.gml</script>
+    <script>scripts\scr_draw_menu.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_island</object>

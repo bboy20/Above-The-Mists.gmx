@@ -106,6 +106,7 @@ alarm[1] = 30;
     fire = false;
     if(ready){
         proj.fired = true;
+        proj.alarm[0] = 30*2;
         image_speed = 1/2;
         ready = false;
         alarm[0] = 14;

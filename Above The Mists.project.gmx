@@ -55,6 +55,9 @@
     <script>scripts\scr_randomWeapon.gml</script>
     <script>scripts\scr_draw_menu.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\font_hud</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_island</object>
     <objects name="Ships">
@@ -86,6 +89,9 @@
       <object>objects\obj_controller</object>
       <object>objects\obj_pretty_controller</object>
       <object>objects\obj_battle_controller</object>
+      <objects name="hud">
+        <object>objects\obj_hud_button_wep</object>
+      </objects>
     </objects>
     <objects name="pretty">
       <object>objects\obj_pretty_cloud</object>

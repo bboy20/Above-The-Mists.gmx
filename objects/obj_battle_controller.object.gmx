@@ -31,6 +31,7 @@ global.enemyArrIndex = 0;
 global.player = instance_find(obj_battleShip, 0);
 xAvg = 0;
 yAvg = 0;
+hudBuilt = false;
 </string>
           </argument>
         </arguments>
@@ -71,8 +72,8 @@ view_xview[0] = xAvg - view_wview[0]/2;
 view_yview[0] = yAvg - view_hview[0]/2;
 //Dynamic Resizing
 //Resizing Larger
-    if(global.player.x &gt; xAvg + view_wview[0]/2 - 64 || global.player.y &gt; yAvg + view_hview[0]/2 - 64 || global.player.x &lt; xAvg - view_wview[0]/2 + 64 || global.player.y &lt; yAvg - view_hview[0]/2 + 64){
-        if(global.player.x &gt; xAvg + view_wview[0]/2 - 32 || global.player.y &gt; yAvg + view_hview[0]/2 - 32 || global.player.x &lt; xAvg - view_wview[0]/2 + 32 || global.player.y &lt; yAvg - view_hview[0]/2 + 32){
+    if(global.player.x &gt; xAvg + view_wview[0]/2 - 64 || global.player.y &gt; yAvg + view_hview[0]/2 - 128 || global.player.x &lt; xAvg - view_wview[0]/2 + 64 || global.player.y &lt; yAvg - view_hview[0]/2 + 64){
+        if(global.player.x &gt; xAvg + view_wview[0]/2 - 32 || global.player.y &gt; yAvg + view_hview[0]/2 - 96 || global.player.x &lt; xAvg - view_wview[0]/2 + 32 || global.player.y &lt; yAvg - view_hview[0]/2 + 32){
             view_wview[0] += 2.5;
             view_hview[0] += 2.5 * ratio;
         }
@@ -81,7 +82,7 @@ view_yview[0] = yAvg - view_hview[0]/2;
     }
 if(view_hview[0] &gt;= 960/2 &amp;&amp; view_wview[0] &gt;= 1280/2){
     //Resizing Smaller
-    if(global.player.x &lt; xAvg + view_wview[0]/2 - 128 &amp;&amp; global.player.x &gt; xAvg - view_wview[0]/2 + 128 &amp;&amp; global.player.y &gt; yAvg - view_hview[0]/2 + 128 &amp;&amp; global.player.y &lt; yAvg + view_hview[0]/2 - 128){
+    if(global.player.x &lt; xAvg + view_wview[0]/2 - 128 &amp;&amp; global.player.x &gt; xAvg - view_wview[0]/2 + 128 &amp;&amp; global.player.y &gt; yAvg - view_hview[0]/2 + 128 &amp;&amp; global.player.y &lt; yAvg + view_hview[0]/2 - 160){
         view_wview[0] -= 2.5;
         view_hview[0] -= 2.5 * ratio;
     }
@@ -113,6 +114,19 @@ if(view_hview[0] &gt;= 960/2 &amp;&amp; view_wview[0] &gt;= 1280/2){
             <kind>1</kind>
             <string>//draw_rectangle_color(0, display_get_gui_height()-100, display_get_gui_width(), display_get_gui_height(), c_orange, c_orange, c_olive, c_olive, false);
 scr_draw_menu(0, display_get_gui_height()-128, display_get_gui_width(), display_get_gui_height());
+draw_set_font(font_hud);
+draw_rectangle(20, display_get_gui_height()-105, 180, display_get_gui_height()-75, true);
+draw_text(25, display_get_gui_height()-97.5, "HULL");
+draw_healthbar(75, display_get_gui_height()-100, 175, display_get_gui_height()-80, global.enemyArr[0].hull, c_black, c_red, c_blue, 0, true, true);
+if(!hudBuilt){
+    for(var i = 0; i &lt; 4; i++){
+        instance_create(225 + 100*i, display_get_gui_height()-100, obj_hud_button_wep);
+        with(instance_nearest(225 + 100*i, display_get_gui_height()-100, obj_hud_button_wep)){
+            index = i;
+        }
+    }
+    hudBuilt = true;
+}
 </string>
           </argument>
         </arguments>

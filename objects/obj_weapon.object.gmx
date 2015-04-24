@@ -30,6 +30,7 @@ orbit_angle = 90*slot;
 orbit_radius = 30;
 fire = false;
 ready = true;
+name = "NULL";
 </string>
           </argument>
         </arguments>

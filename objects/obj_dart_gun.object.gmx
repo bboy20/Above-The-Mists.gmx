@@ -30,6 +30,7 @@ instance_create(x, y, obj_dart);
 proj = instance_nearest(x, y, obj_dart);
 slot = 1;
 image_speed = 0;
+name = "DART GUN";
 </string>
           </argument>
         </arguments>
